@@ -1,0 +1,19 @@
+{
+  "name": "backend-datos-excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "vercel-build":"",
+    "dev":"node api/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "serverless-http": "^3.2.0",
+    "xlsx": "^0.18.5"
+  }
+}
