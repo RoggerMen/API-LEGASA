@@ -1,0 +1,92 @@
+[
+  {
+    "Registro": "001",
+    "Razon Social": "Empresa A",
+    "Materias Primas": "avena, trigo, soya"
+  },
+  {
+    "Registro": "002",
+    "Razon Social": "Empresa B",
+    "Materias Primas": "maíz, arroz"
+  },
+  {
+    "Registro": "003",
+    "Razon Social": "Alimentos El Grano Fino",
+    "Materias Primas": "soya, trigo, harina integral"
+  },
+  {
+    "Registro": "004",
+    "Razon Social": "Molino Santa Rosa",
+    "Materias Primas": "avena, maíz, cebada"
+  },
+  {
+    "Registro": "005",
+    "Razon Social": "Nutrición Total SAC",
+    "Materias Primas": "soya, avena, kiwicha"
+  },
+  {
+    "Registro": "006",
+    "Razon Social": "Granos Perú",
+    "Materias Primas": "cebada, maíz, harina de trigo"
+  },
+  {
+    "Registro": "007",
+    "Razon Social": "Bioalimentos del Norte",
+    "Materias Primas": "avena, quinua, kiwicha"
+  },
+  {
+    "Registro": "008",
+    "Razon Social": "Agroindustria Nutrivida",
+    "Materias Primas": "soya, arroz, lenteja"
+  },
+  {
+    "Registro": "009",
+    "Razon Social": "Empresa penultima",
+    "Materias Primas": "quinua, cebada, mashua"
+  },
+  {
+    "Registro": "010",
+    "Razon Social": "Empresa ultima",
+    "Materias Primas": "trigo, harina vegetal, anis"
+  },
+  {
+    "Registro": "011",
+    "Razon Social": "Empresa A",
+    "Materias Primas": "trigo, quinua, harina, cañihua"
+  },
+  {
+    "Registro": "012",
+    "Razon Social": "Empresa A",
+    "Materias Primas": "anis, trigo, kiwicha"
+  },
+  {
+    "Registro": "013",
+    "Razon Social": "Empresa A",
+    "Materias Primas": "anis, trigo, kiwicha"
+  },
+  {
+    "Registro": "014",
+    "Razon Social": "Empresa A",
+    "Materias Primas": "anis, trigo, kiwicha"
+  },
+  {
+    "Registro": "015",
+    "Razon Social": "Empresa A",
+    "Materias Primas": "anis, trigo, kiwicha"
+  },
+  {
+    "Registro": "016",
+    "Razon Social": "Agroindustria Nutrivida",
+    "Materias Primas": "harina extruida de maca, quinua, cañihua"
+  },
+  {
+    "Registro": "017",
+    "Razon Social": "Bioalimentos del Norte",
+    "Materias Primas": "harinas extruida de maca, maca, ajonjolí"
+  },
+  {
+    "Registro": "018",
+    "Razon Social": "Granos Perú",
+    "Materias Primas": "harina extruidas de maca, avena, anís"
+  }
+]
