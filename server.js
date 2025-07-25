@@ -1,6 +1,6 @@
 // server.js
 const app = require("./api/index");
-const convertirExcelAJson = require("./api/utils/excelToJson");
+const convertirExcelAJson = require("./utils/excelToJson");
 
 convertirExcelAJson(); // se ejecuta al iniciar el servidor local
 
