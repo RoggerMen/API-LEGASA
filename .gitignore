@@ -1,6 +1,4 @@
 node_modules
 
-utils
-excelToJson.js
-data
-empresas.xlsx
+utils/excelToJson.js
+data/empresas.xlsx
