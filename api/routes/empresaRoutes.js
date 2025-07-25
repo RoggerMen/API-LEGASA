@@ -3,7 +3,6 @@ const router = express.Router();
 const fs = require("fs");
 const path = require("path");
 
-// ✅ Leemos el archivo JSON una sola vez al inicio
 const dataPath = path.join(__dirname, "../empresas.json");
 
 let empresas = [];
